@@ -1,0 +1,1 @@
+ZOOM_LEVEL = 1
